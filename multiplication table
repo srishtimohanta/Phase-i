@@ -1,0 +1,4 @@
+n = int(input())
+for i in range(1,11):
+    rel=i*n
+    print(rel,end=" ")
